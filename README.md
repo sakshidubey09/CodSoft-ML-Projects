@@ -40,7 +40,7 @@ Kaggle: https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 
 
-### Task 3 - Churn Prediction Model
+# Task 3 - Churn Prediction Model
 
 #### Overview
 
