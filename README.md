@@ -1,4 +1,4 @@
-## ML Task 1 - Movie Genre Prediction
+# Task 1 - Movie Genre Prediction
 Naive Bayes ML model to predict movie genre when given a description
 
 #### Overview
